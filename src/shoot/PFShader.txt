@@ -1,0 +1,10 @@
+#version 140
+
+out vec3 out_colour;
+
+
+void main(void){
+
+	out_colour = vec3(1,0,0);
+
+}
